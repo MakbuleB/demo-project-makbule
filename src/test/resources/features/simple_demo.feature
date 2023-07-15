@@ -1,4 +1,4 @@
-Feature: The application should be running
+Feature: The application should be running properly
 
   @smoke @test1
   Scenario: simple search
